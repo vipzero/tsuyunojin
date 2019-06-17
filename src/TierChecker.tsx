@@ -28,8 +28,10 @@ const ranks = {
 }
 
 function TierChecker() {
-  const [usedWepons, setUsedWepons] = useSessionStorage("UsedWepons", {})
-  const [point, setPoint] = useSessionStorage("point", 0)
+  const [usedWepons, setUsedWepons] = useSessionStorage<{
+    [id: string]: number
+  }>("UsedWepons", {})
+  const [point, setPoint] = useSessionStorage<number>("point", 0)
   return (
     <Card style={{ background: "hsla(250, 100%, 90%, 0.8)" }}>
       <h2>TierChecker</h2>
