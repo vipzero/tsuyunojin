@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background: repeating-linear-gradient(
+    45deg,
+    #bce2e8,
+    #bce2e8 10px,
+    #2ecfe8,
+    0,
+    #5dd5e8 20px
+  );
+}

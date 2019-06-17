@@ -1,2 +1,0 @@
-# tsuyunojin
-Created with CodeSandbox
