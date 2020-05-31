@@ -7,7 +7,7 @@
   "dependencies": {
     "@material-ui/core": "4.10.0",
     "@material-ui/icons": "4.9.1",
-    "@types/lodash": "4.14.152",
+    "@types/lodash": "4.14.154",
     "@types/recharts": "1.8.10",
     "@types/styled-components": "5.1.0",
     "lodash": "4.17.15",
