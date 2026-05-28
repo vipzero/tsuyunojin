@@ -6,7 +6,7 @@
   "main": "src/index.tsx",
   "dependencies": {
     "@material-ui/core": "4.10.2",
-    "@material-ui/icons": "4.9.1",
+    "@mui/icons-material": "5.0.0",
     "@types/lodash": "4.14.155",
     "@types/recharts": "1.8.12",
     "@types/styled-components": "5.1.0",
