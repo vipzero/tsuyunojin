@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
-    "@material-ui/core": "4.10.2",
+    "@mui/material": "5.0.0",
     "@material-ui/icons": "4.9.1",
     "@types/lodash": "4.14.155",
     "@types/recharts": "1.8.12",
